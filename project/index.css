@@ -24,7 +24,7 @@ body {
 
 .sidenav {
   height: 100%;
-  background-image: url("imagens/background-coelho.jpeg");
+  background-image: url("imagens/coelho.png");
   overflow-x: hidden;
   padding-top: 20px;
 }
