@@ -82,7 +82,7 @@ body {
 }
 
 .btn-black{
-  background-color: #000 !important;
-  color: #fff;
+  background-color: #ecd85f !important;
+  color: rgb(0, 0, 0);
   margin-left: 25px;
 }
