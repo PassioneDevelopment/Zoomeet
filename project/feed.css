@@ -1,0 +1,11 @@
+header{
+    padding-bottom:100px ;
+}
+div#caixa{
+padding-left: 180px;
+width: 55%;
+float: left;
+}
+div#aviso1{
+text-align:left; 
+}
