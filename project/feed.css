@@ -21,4 +21,10 @@ div#caixa2{
     
    
 }
-    
+    div#cpost{
+        padding-left: 180px;
+        padding-right:40px ;
+        width: 55%;
+        float: left;
+          
+    }
