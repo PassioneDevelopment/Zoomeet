@@ -7,16 +7,32 @@ body{
 }
 
 div#caixa{
-padding-left: 180px;
+padding-left: 190px;
 padding-right:40px ;
 width: 55%;
 float: left;
 position: relative;
-left: 250px;
+left: 310px;
+text-align: center;
+
+
 }
 
 div#caixa2{
 
+padding-left: 250px;
+padding-right:40px ;
+float: left;
+position: relative;
+left: 240px;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 50px;
+
+}
+
+textarea{
+text-align: center;
 border-top-width: 1px;
 border-top-style: solid;
 border-top-color:#fae57c;
@@ -65,16 +81,16 @@ div#cpost{
 }
 div#indica{
 position: relative;
-left: 450px;
-bottom: -25px;
+left: 380px;
+bottom: -45px;
 
 }
 
 
 div#card2{
 position: relative;
-right: 900px;
-bottom: 600px;
+right: 980px;
+bottom: 590px;
 border-radius: 30px;
 width: 350px ;
 }
