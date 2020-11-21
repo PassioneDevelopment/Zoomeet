@@ -23,13 +23,7 @@ div#aviso1{
 text-align:left; 
 }
 
-div#caixa2{
-  
-     width:100%;
-    float: left;
-    
    
-}
 
 div#cpost{
         padding-left: 180px;
@@ -37,4 +31,10 @@ div#cpost{
         width: 55%;
         float: left;
           
+}
+div#indica{
+position: relative;
+left: 250px;
+bottom: -25px;
+
 }
