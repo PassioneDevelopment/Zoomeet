@@ -11,8 +11,8 @@ padding-left: 180px;
 padding-right:40px ;
 width: 55%;
 float: left;
-
-
+position: relative;
+left: 250px;
 }
 
 div#caixa2{
@@ -61,11 +61,20 @@ div#cpost{
         padding-right:40px ;
         width: 55%;
         float: left;
-          
+    
 }
 div#indica{
 position: relative;
-left: 250px;
+left: 450px;
 bottom: -25px;
 
+}
+
+
+div#card2{
+position: relative;
+right: 900px;
+bottom: 600px;
+border-radius: 30px;
+width: 350px ;
 }
