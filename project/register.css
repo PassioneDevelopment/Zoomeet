@@ -1,0 +1,17 @@
+body{
+    background-color: #ecd85f;
+}
+
+div#conteinerForm{  
+    background-color: #BCC2C8;
+    box-shadow: 2px 1px 8px 2px;
+    width: 80vh;
+    height: 100%;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
