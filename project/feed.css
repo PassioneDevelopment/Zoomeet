@@ -19,16 +19,16 @@ div#caixa2{
 
 border-top-width: 1px;
 border-top-style: solid;
-border-top-color:#8d8c89;
+border-top-color:#fae57c;
 border-bottom-width: 1px;
 border-bottom-style: solid;
-border-bottom-color:#8d8c89;
+border-bottom-color:#fae57c;
 border-right-width: 1px;
 border-right-style: solid;
-border-right-color:#8d8c89;
+border-right-color:#fae57c;
 border-left-width: 1px;
 border-left-style: solid;
-border-left-color:#8d8c89;
+border-left-color:#fae57c;
 
 }
 div#conteinerDoPost{
@@ -39,6 +39,19 @@ div#conteinerDoPost{
 
 div#aviso1{
 text-align:left; 
+border-top-width: 3px;
+border-top-style: solid;
+border-top-color:#fde362;
+border-bottom-width: 3px;
+border-bottom-style: solid;
+border-bottom-color:#fde362;
+border-right-width: 3px;
+border-right-style: solid;
+border-right-color:#fde362;
+border-left-width: 3px;
+border-left-style: solid;
+border-left-color:#fde362;
+
 }
 
    
