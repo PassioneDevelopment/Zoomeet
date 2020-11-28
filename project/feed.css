@@ -79,18 +79,18 @@ div#cpost{
         float: left;
     
 }
-div#indica{
+div#card1{
 position: relative;
-left: 380px;
-bottom: -45px;
+right: 990px;
+bottom: -30px;
+border-radius: 30px;
+width: 350px ;
 
 }
 
 
 div#card2{
 position: relative;
-right: 980px;
-bottom: 590px;
-border-radius: 30px;
-width: 350px ;
+left: 360px;
+bottom: 600px;
 }
